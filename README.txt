@@ -1,0 +1,11 @@
+本库是在VS2017、.NET Framework4.6.1框架中进行封装的，主要封装了四个Dll，分别是PointCloudSharpDll、PclCSharp、PointCloudDll和PclDll。
+其中前两个是用C#封装的Dll，它们是对后两个dll的包装。
+在实际使用时，只需要在.net中引用PointCloudSharpDll、PclCSharp这两个dll即可。
+但是需要把其他两个dll以及这两个dll依赖的所有dll全部放在exe所在目录。
+当然，你也可以放在system32目录，或者放在环境变量指定的文件夹。
+建议放在exe所在目录中。
+依赖的dll全部放在depend/x64目录中。
+切记，依赖的dll必须一个不漏的和PointCloudSharpDll、PclCSharp这两个dll放在一起，不然会报System.DllNotFoundException:“无法加载 DLL这个错误。
+还有一点需要注意，对于pcl_common_release这个dll，它依赖的都是系统级的dll和C++运行时的dll。
+对于系统级的dll。只要是正常的window10系统（笔者是在win10上封装的，所以得是win10系统）都会在system32目录中包含相应的dll，所以无需额外添加。至于C++的dll，大部分安装了编程软件的电脑也都会包含，所以也无需额外添加。
+只需将bin目录下的PointCloudSharpDll、PclCSharp、PointCloudDll和PclDll四个dll和depend/x64目录中的所有dll一起放在exe所在路径中即可使用。
