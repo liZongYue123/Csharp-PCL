@@ -1,0 +1,13 @@
+﻿  filter.cpp
+f:\pcl-csharp\src\pclsharpwrapper\pclsharpwrapper\filter.cpp(91): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  io.cpp
+f:\pcl-csharp\src\pclsharpwrapper\pclsharpwrapper\io.cpp(140): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  pcl_util.cpp
+f:\pcl-csharp\src\pclsharpwrapper\pclsharpwrapper\pcl_util.cpp(101): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  sampleConsensus.cpp
+f:\pcl-csharp\src\pclsharpwrapper\pclsharpwrapper\sampleconsensus.cpp(37): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  segmentation.cpp
+f:\pcl-csharp\src\pclsharpwrapper\pclsharpwrapper\segmentation.cpp(99): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  util_module.cpp
+f:\pcl-csharp\src\pclsharpwrapper\pclsharpwrapper\util_module.cpp(374): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  正在生成代码...

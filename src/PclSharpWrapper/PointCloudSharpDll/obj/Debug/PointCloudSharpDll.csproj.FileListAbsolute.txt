@@ -1,0 +1,5 @@
+F:\pcl-csharp\src\PclSharpWrapper\PointCloudSharpDll\bin\Debug\PointCloudSharpDll.dll
+F:\pcl-csharp\src\PclSharpWrapper\PointCloudSharpDll\bin\Debug\PointCloudSharpDll.pdb
+F:\pcl-csharp\src\PclSharpWrapper\PointCloudSharpDll\obj\Debug\PointCloudSharpDll.csproj.CoreCompileInputs.cache
+F:\pcl-csharp\src\PclSharpWrapper\PointCloudSharpDll\obj\Debug\PointCloudSharpDll.dll
+F:\pcl-csharp\src\PclSharpWrapper\PointCloudSharpDll\obj\Debug\PointCloudSharpDll.pdb

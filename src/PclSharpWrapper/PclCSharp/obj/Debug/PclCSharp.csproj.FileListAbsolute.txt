@@ -1,0 +1,11 @@
+F:\pcl-csharp\src\PclSharpWrapper\PclCSharp\bin\Debug\PclCSharp.dll
+F:\pcl-csharp\src\PclSharpWrapper\PclCSharp\bin\Debug\PclCSharp.pdb
+F:\pcl-csharp\src\PclSharpWrapper\PclCSharp\obj\Debug\PclCSharp.csproj.CoreCompileInputs.cache
+F:\pcl-csharp\src\PclSharpWrapper\PclCSharp\obj\Debug\PclCSharp.dll
+F:\pcl-csharp\src\PclSharpWrapper\PclCSharp\obj\Debug\PclCSharp.pdb
+F:\其他项目\pcl-csharp\src\PclSharpWrapper\PclCSharp\bin\Debug\PclCSharp.dll
+F:\其他项目\pcl-csharp\src\PclSharpWrapper\PclCSharp\bin\Debug\PclCSharp.pdb
+F:\其他项目\pcl-csharp\src\PclSharpWrapper\PclCSharp\obj\Debug\PclCSharp.csprojAssemblyReference.cache
+F:\其他项目\pcl-csharp\src\PclSharpWrapper\PclCSharp\obj\Debug\PclCSharp.csproj.CoreCompileInputs.cache
+F:\其他项目\pcl-csharp\src\PclSharpWrapper\PclCSharp\obj\Debug\PclCSharp.dll
+F:\其他项目\pcl-csharp\src\PclSharpWrapper\PclCSharp\obj\Debug\PclCSharp.pdb
